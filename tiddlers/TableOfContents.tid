@@ -1,0 +1,14 @@
+caption: Contents
+created: 20231024024727640
+list-after: $:/core/ui/SideBar/Open
+modified: 20231024024838405
+tags: $:/tags/SideBar
+title: TableOfContents
+tmap.id: 083e3d77-8745-4637-89fc-5747c1c4b2e3
+
+
+<div class="tc-table-of-contents">
+
+<<toc-selective-expandable 'TableOfContents'>>
+
+</div>
